@@ -1,7 +1,7 @@
 import SwiftUI
 
 struct Person: Identifiable {
-    let id = UUID()
+    let id = UUID()   
     let fullName: String
     let email: String
     let phone: String
